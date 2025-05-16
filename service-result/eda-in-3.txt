@@ -1,0 +1,5 @@
+Outcome Count:
+Outcome
+0    500
+1    268
+Name: count, dtype: int64
